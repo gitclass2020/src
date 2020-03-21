@@ -7,3 +7,5 @@ mnopp
 5
 jfckbjndfkn
 stash 1
+stash2
+
