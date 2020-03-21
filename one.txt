@@ -6,3 +6,4 @@ mnopp
 234
 5
 jfckbjndfkn
+stash 1
