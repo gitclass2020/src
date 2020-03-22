@@ -1,6 +1,6 @@
 <projectname=gitclass basedir="." default="">
 
-
+hello my world
 
 
 
