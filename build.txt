@@ -1,8 +1,10 @@
 <projectname=gitclass basedir="." default="">
+<target>
+<echo>targettig is first target</target>
+
 
 hello my world
-
-
+</target>
 
 
 
